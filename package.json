@@ -1,7 +1,6 @@
 {
-  "name": "youtub-v",
+  "name": "todo-App",
   "version": "0.1.0",
-  "homepage": "http://sothelast.github.io/youtube1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
